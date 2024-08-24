@@ -1,3 +1,2 @@
 # JavaScript
-A code repo for Javascript series !!!!!!!!!!!!!!!!!!!
-!!!!!!!!!!!!!!!!!!!!!!!!
+A code repo for Javascript series !!!
