@@ -32,3 +32,4 @@ const allUsers=[
 ]
 console.log(allUsers);
 ```
+### FUNCTIONS
